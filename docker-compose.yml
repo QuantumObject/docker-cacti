@@ -9,4 +9,4 @@ cacti:
    - ./log/:/var/log/
    - ./templates/:/opt/cacti/templates/
    - ./mysql/:/var/lib/mysql/
-   - ./rrd/:/opt/cacti/rrd/
+   - ./rra/:/opt/cacti/rra/
