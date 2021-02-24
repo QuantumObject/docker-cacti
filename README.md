@@ -45,7 +45,7 @@ Default value is America/New_York .
   
   /var/lib/mysql
   
-  /opt/cacti/rra
+  /rra
 
 ## Accessing the Cacti applications:
 
